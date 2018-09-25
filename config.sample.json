@@ -1,0 +1,8 @@
+{
+  "mqtt": {
+    "mqttURL": "mqtts://mqtt.example.com",
+    "mqttUsername": "",
+    "mqttPassword": "",
+    "topic": ""
+  }
+}
